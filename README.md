@@ -1,4 +1,4 @@
 # index
 This is my First Repository.
 <br>
-Author- Sanjana Panchal
+Author- Sanjana (Rai University)
